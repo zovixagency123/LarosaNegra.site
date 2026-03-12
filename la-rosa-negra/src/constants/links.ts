@@ -1,2 +1,0 @@
-export const LOGO_URL = "https://scontent.fopo5-1.fna.fbcdn.net/v/t39.30808-6/501435202_9658520044246274_1545325971692356970_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=b895b5&_nc_ohc=hSNifVI3E6cQ7kNvwF0QLps&_nc_oc=AdnjHOIKG7PZ1D6b1-zXw-C-Pg_AdKiCHmcX6PQBl22Eb01RP6XeAnlrs-Lwpwo0Moh7nLuXJCN5jbzH3fcgGnPh&_nc_zt=23&_nc_ht=scontent.fopo5-1.fna&_nc_gid=4HA7fKkaxZAGNb0_BZQEfQ&_nc_ss=8&oh=00_AfxOqs513XhKfRR35wa4CjE9iYKVoklItFCGJutNPe35LA&oe=69B7E26A";
-export const FACEBOOK_URL = "https://www.facebook.com/profile.php?id=61567016910659";
